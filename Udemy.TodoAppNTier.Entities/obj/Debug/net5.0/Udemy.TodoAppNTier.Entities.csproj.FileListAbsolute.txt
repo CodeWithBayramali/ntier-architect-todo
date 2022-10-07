@@ -1,0 +1,12 @@
+C:\Users\Bayramali\Desktop\nArchitecture\Udemy.todoappntier\Udemy.TodoAppNTier.Entities\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.deps.json
+C:\Users\Bayramali\Desktop\nArchitecture\Udemy.todoappntier\Udemy.TodoAppNTier.Entities\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.dll
+C:\Users\Bayramali\Desktop\nArchitecture\Udemy.todoappntier\Udemy.TodoAppNTier.Entities\bin\Debug\net5.0\ref\Udemy.TodoAppNTier.Entities.dll
+C:\Users\Bayramali\Desktop\nArchitecture\Udemy.todoappntier\Udemy.TodoAppNTier.Entities\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.pdb
+C:\Users\Bayramali\Desktop\nArchitecture\Udemy.todoappntier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.csproj.AssemblyReference.cache
+C:\Users\Bayramali\Desktop\nArchitecture\Udemy.todoappntier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bayramali\Desktop\nArchitecture\Udemy.todoappntier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.AssemblyInfoInputs.cache
+C:\Users\Bayramali\Desktop\nArchitecture\Udemy.todoappntier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.AssemblyInfo.cs
+C:\Users\Bayramali\Desktop\nArchitecture\Udemy.todoappntier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Bayramali\Desktop\nArchitecture\Udemy.todoappntier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.dll
+C:\Users\Bayramali\Desktop\nArchitecture\Udemy.todoappntier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.Entities.dll
+C:\Users\Bayramali\Desktop\nArchitecture\Udemy.todoappntier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.pdb

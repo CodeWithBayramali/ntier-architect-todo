@@ -1,0 +1,49 @@
+@model List<WorkListDTO>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ToDo App</title>
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="container my-2">
+
+        <div class="text-end my-2">
+            <a class="btn btn-success" asp-action="Create" asp-controller="Home">New Work</a>
+        </div>
+
+        <table class="table table-stripped table-bordered table-sm">
+            <thead>
+                <tr>
+                    <td class="text-info">Id</td>
+                    <td class="text-info">Definition</td>
+                    <td class="text-info">IsCompleted</td>
+                    <td class="text-info">Process</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var work in Model)
+                {
+                    <tr>
+                        <td>@work.Id</td>
+                        <td>@work.Definition</td>
+                        <td>@(work.IsCompleted ? "Tamamlandı":"Tamamlanmadı")</td>
+                        <td class="col-md-2">
+                            <a class="btn btn-info btn-sm" asp-action="update" asp-controller="home" asp-route-id="@work.Id">Update</a>
+                            <a class="btn btn-danger btn-sm" asp-action="delete" asp-controller="home" asp-route-id="@work.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</body>
+
+</html>
